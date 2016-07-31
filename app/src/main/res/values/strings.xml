@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+
+    <!-- Strings added in 0.7.0 -->
+    <string name="loading">Loading...</string>
+
+    <!-- localization of default folder names -->
+    <string name="difficulty_every_hard">Expert</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_easy">Easy</string>
+
+    <string name="no_puzzles">No puzzles</string>
+    <string name="one_puzzle">1 puzzle</string>
+    <string name="n_puzzles">%s puzzles</string>
+    <string name="all_solved">all solved</string>
+    <string name="n_solved"> %s solved</string>
+    <string name="n_unsolved"> %s unsolved</string>
+    <string name="n_playing"> %s playing</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- define color buttons -->
+    <color name="buttonEasy">#43a9a1</color>
+    <color name="buttonNormal">#d5b007</color>
+    <color name="buttonHard">#a94397</color>
+    <color name="buttonEveryHard">#d96331</color>
+    <color name="borderButton">#41719c</color>
+    <color name="textButton">#FFFFFF</color>
+    <color name="buttonPressed">#429bc1</color>
+</resources>

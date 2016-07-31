@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_level_buttons"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnEasy"
+        style="@style/ButtonChooseLevel"
+        android:layout_below="@+id/tvSudoku"
+        android:background="@drawable/bg_button_easy"
+        android:text="Easy" />
+
+    <Button
+        android:id="@+id/btnNormal"
+        style="@style/ButtonChooseLevel"
+        android:layout_below="@+id/btnEasy"
+        android:background="@drawable/bg_button_normal"
+        android:text="Normal" />
+
+    <Button
+        android:id="@+id/btnHard"
+        style="@style/ButtonChooseLevel"
+        android:layout_below="@+id/btnNormal"
+        android:background="@drawable/bg_button_hard"
+        android:text="Hard" />
+
+    <Button
+        android:id="@+id/btnEveryHard"
+        style="@style/ButtonChooseLevel"
+        android:layout_below="@+id/btnHard"
+        android:background="@drawable/bg_button_everyhard"
+        android:text="Expert" />
+</LinearLayout>
